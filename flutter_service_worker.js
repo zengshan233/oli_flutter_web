@@ -245,11 +245,12 @@ const RESOURCES = {
 "assets/packages/rongcloud_im/assets/video/video_loading.png": "8e74b02513eee1db292e1b0f97e8075a",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "c2841ae3558af12dce230cd6b6704589",
-"/": "c2841ae3558af12dce230cd6b6704589",
-"main.dart.js": "2de8a1fd8618bfc0e4f51b39ef966582",
+"icons/icon-29.png": "2ef25a3c6749e882f148a41d2750d876",
+"icons/icon-60.png": "90cb0ea6d697f3cf93c9cbbdbee52dd9",
+"icons/icon-83.png": "19870ac8cd94d83330d3d2c72de1163b",
+"index.html": "bd060622a1eff87bda93ca741f374860",
+"/": "bd060622a1eff87bda93ca741f374860",
+"main.dart.js": "cff0b722a4e6ff9d75ad2ab56c7f8ec3",
 "manifest.json": "8e35f4c50b4f0b36c6903f5acde238a1",
 "version.json": "76464135aef8605e4c887c44c835c60d"
 };
