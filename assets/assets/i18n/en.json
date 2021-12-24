@@ -1,0 +1,233 @@
+{
+	"navigator": {
+		"a": "Home",
+		"b": "Research",
+		"c": "Markets",
+		"d": "Mine"
+	},
+	"home": {
+		"a": "Oli Views",
+		"b": "Hot",
+		"c": "Recent"
+	},
+	"research": {
+		"a": "Oli News",
+		"menu": {
+			"a": "News",
+			"5": "Industry Report",
+			"4": "Weekly Report",
+			"3": "Equity Report",
+			"b": "Starred"
+		}
+	},
+	"markets": {
+		"a": "Market",
+		"b": "Bull of the Day",
+		"c": "Bear of the Day",
+		"d": "Last trading day：{date}",
+		"e": "US",
+		"f": "AU",
+		"g": "Economic Calendar",
+		"h": "Recent Patterns",
+		"i": "Watchlist ",
+		"j": "US IPO Calendar",
+		"k": "Bear",
+		"l": "Neutral",
+		"m": "Bull",
+		"date": {
+			"a": "Yesterday",
+			"b": "Today",
+			"c": "Tomorrow",
+			"d": "This Week",
+			"e": "Next W eek"
+		},
+		"ipo_title": {
+			"a": "Date",
+			"b": "Company Name",
+			"c": "Exchange",
+			"d": "Price",
+			"e": "Total Shares Value",
+			"f": "Status"
+		},
+		"menu": {
+			"a": "Markets",
+			"b": "Economic Calendar",
+			"c": "Recent Patterns",
+			"d": "Watchlist",
+			"e": "IPO Calendar"
+		},
+		"stock": {
+			"a": "Financial Situation",
+			"b": "News Sentiment",
+			"c": "Company Situation",
+			"d": "Company Name",
+			"e": "IPO Date",
+			"f": "Exchange",
+			"g": "Description",
+			"h": "52 Weeks High",
+			"i": "52 Weeks Low",
+			"j": "Market Capitalization",
+			"k": "Dividend Yield",
+			"l": "PE",
+			"m": "EPS",
+			"n": "Dividend History",
+			"o": "Record Date",
+			"p": "Amount",
+			"q": "Adjusted Amount",
+			"r": "Bearish：{value}",
+			"s": "Bullish：{value}",
+			"t": "From last financial year {year}, {symbol}'s income increased {incomeTip}, net income increased {netIncome}%，net assets increased {netAssets}%.",
+			"u": "Income",
+			"v": "Asset",
+			"w": "Cash Flow",
+			"statistic":{
+                   "a":"Investment Return",
+                   "b":"Net Profit Margin",
+                   "c":"Operating Margin",
+                   "d":"Gross Margin",
+                   "e":"Long Term Debt",
+                   "f":"Total Debt",
+                   "g":"Current Ratio",
+                   "h":"Quick Ratio",
+                   "i":"Revenue Per Share",
+                   "j":"Operating Cash Flow"
+			},
+			"statistic_line": {
+				"a": "Gross Income",
+				"b": "Net Income",
+				"c": "Total Assets",
+				"d": "Total Debt",
+				"e": "Total Cash",
+				"f": "Net Cash Change"
+			}
+		},
+		"technic": {
+			"a": "Support and Resistance Level",
+			"b": "Pattern",
+			"c": "Date"
+		},
+		"quota": {
+			"a": "Bearish",
+			"b": "Bullish",
+			"c": "{symbol}'s sector: {sector}",
+			"d": "{nbAbove} indicators are higher than sector median, {nbBelow} indicators are lower than sector median",
+			"e": "Bearish Indicators",
+			"f": "Bullish Indicators"
+		},
+		"recommend": {
+			"a": "Utill {year},{symbol}'s recommendation trend is：{buy} buy rating，{hold} hold rating，{sell} sell rating",
+			"b": "Lowest",
+			"c": "Average",
+			"d": "Highest",
+			"e": "Analysts",
+			"f": "Rating",
+			"g": "Target Price",
+			"h": "Date",
+			"i": "Note：analysts provide estimates based on current"
+		},
+		"owner_ship": {
+			"a": "Insider Transactions",
+			"b": "Shareholder Ranking",
+			"c": "Institution Ranking",
+			"d": "Shareholder",
+			"e": "Date",
+			"f": "Price",
+			"g": "Share",
+			"h": "Percent"
+		}
+	},
+	"mine": {
+		"a": "Login",
+		"b": "Starred Report",
+		"c": "Watchlist",
+		"d": "history",
+		"e": "Subscription",
+		"f": "Analyst",
+		"g": "Customer Service",
+		"h": "Settings",
+		"login": {
+			"a": "WELCOME to",
+			"b": "Account",
+			"c": "E-mail Account",
+			"d": "Password",
+			"e": "Password",
+			"f": "Forget Password?",
+			"g": "Sign Up",
+			"h": "Login"
+		},
+		"register": {
+			"a": "Name",
+			"b": "Please enter your name",
+			"c": "Email ",
+			"d": "Please enter your email ",
+			"e": "Password",
+			"f": "At least 8 characters including UPPERCASE and lowercase characters",
+			"g": "Register"
+		},
+		"find": {
+			"a": "Reset Password",
+			"b": "Verification Code",
+			"c": "Please enter your code ",
+			"d": "SEND",
+			"e": "Confirm"
+		},
+		"setting": {
+			"a": "Settings",
+			"b": "Profile",
+			"c": "Change Password",
+			"d": "Notifications",
+			"e": "About us",
+			"f": "Language",
+			"g": "CH",
+			"h": "EN",
+			"i": "Logout",
+			"j": "Version：{value}",
+			"k": "《Financial Services Guide》",
+			"l": "《Service Usage Agreement》",
+			"m": "《Risk And Warning》",
+			"n": "《Privacy Policy》",
+			"o": "《Customer Complaint Guideline》",
+			"p": "",
+			"1": "",
+			"password": {
+				"a": "Change Password",
+				"b": "Old",
+				"c": "New",
+				"d": "Confirm",
+				"e": "Please enter your password",
+				"f": "At least 8 characters including UPPERCASE and lowercase characters",
+				"g": "Confirm Password",
+				"h": "Confirm"
+			},
+			"notice": {
+				"a": "Notifications",
+				"b": "Customer Service Message",
+				"c": "System Message"
+			},
+			"profile": {
+				"a": "Profile",
+				"b": "Change Photo",
+				"c": "Name",
+				"d": "Description",
+				"e": "Gender",
+				"f": "Date of Birth",
+				"g": "Contact Number",
+				"h": "Male",
+				"i": "Female",
+				"j": "Editting..."
+			},
+			"subscribe": {
+				"a": "Subscription",
+				"b": "Unlimited Equity Reports",
+				"c": "Unlimited Industry Reports",
+				"d": "Unlimited Weekly Reports",
+				"e": "Talk with Analyst One-on-One",
+				"f": "Technical Analysis and Chart Patterns",
+				"g": "Fundamental Analysis",
+				"h": "Your subscription expires on {value}",
+				"i": "《Terms and Conditions》",
+				"j": "Subscribe"
+			}
+		}
+	}
+}
