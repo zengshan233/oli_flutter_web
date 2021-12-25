@@ -1,4 +1,7 @@
 {
+	"common":{
+		"a":"Update at"
+	},
 	"navigator": {
 		"a": "Home",
 		"b": "Research",
@@ -215,19 +218,22 @@
 				"h": "Male",
 				"i": "Female",
 				"j": "Editting..."
-			},
-			"subscribe": {
-				"a": "Subscription",
-				"b": "Unlimited Equity Reports",
-				"c": "Unlimited Industry Reports",
-				"d": "Unlimited Weekly Reports",
-				"e": "Talk with Analyst One-on-One",
-				"f": "Technical Analysis and Chart Patterns",
-				"g": "Fundamental Analysis",
-				"h": "Your subscription expires on {value}",
-				"i": "《Terms and Conditions》",
-				"j": "Subscribe"
 			}
+		},
+		"subscribe": {
+			"a": "Subscription",
+			"b": "Unlimited Equity Reports",
+			"c": "Unlimited Industry Reports",
+			"d": "Unlimited Weekly Reports",
+			"e": "Talk with Analyst One-on-One",
+			"f": "Technical Analysis and Chart Patterns",
+			"g": "Fundamental Analysis",
+			"h": "Your subscription expires on {value}",
+			"i": "《Terms and Conditions》",
+			"j": "Subscribe",
+			"k":"Activate",
+			"l":"Auto Renewals",
+			"m":"Pay"
 		}
 	}
 }
