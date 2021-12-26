@@ -7697,6 +7697,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 extended_image
 extended_image_library
+extended_text
+extended_text_library
 
 MIT License
 

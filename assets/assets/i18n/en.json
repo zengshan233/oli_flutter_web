@@ -1,6 +1,8 @@
 {
 	"common":{
-		"a":"Update at"
+		"a":"Update at",
+		"b":"more",
+		"c":"Content not available"
 	},
 	"navigator": {
 		"a": "Home",
@@ -37,12 +39,13 @@
 		"k": "Bear",
 		"l": "Neutral",
 		"m": "Bull",
+		"n":"Ticker symbol, like APT",
 		"date": {
 			"a": "Yesterday",
 			"b": "Today",
 			"c": "Tomorrow",
 			"d": "This Week",
-			"e": "Next W eek"
+			"e": "Next Week"
 		},
 		"ipo_title": {
 			"a": "Date",
