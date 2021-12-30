@@ -28,7 +28,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=2846692327');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=2761560504');
       });
     }
   </script>
@@ -38,30 +38,6 @@
   </script>
   <script src="./main.dart.js" type="application/javascript"></script>
   <script>
-    function hideAddressBar_android() {
-      var self = document.getElementsByTagName('body')[0];
-      if (self.requestFullscreen) {
-        self.requestFullscreen();
-      } else if (self.mozRequestFullScreen) {
-        self.mozRequestFullScreen();
-      } else if (slef.webkitRequestFullScreen) {
-        self.webkitRequestFullScreen();
-      }
-    }
-    window.onload = function () {
-      if (document.documentElement.scrollHeight <= document.documentElement.clientHeight) {
-        bodyTag = document.getElementsByTagName('body')[0];
-        bodyTag.style.height = document.documentElement.clientWidth / screen.width * screen.height + 'px';
-      }
-      setTimeout(function () {
-        window.scrollTo(0, 1)
-      
-       
-      }, 0);
-      setTimeout(function (){
-          hideAddressBar_android()
-        },5000);
-    };  
   </script>
 </body>
 
