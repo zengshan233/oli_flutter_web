@@ -1,19 +1,31 @@
 {
-	"common":{
-		"a":"Update at",
-		"b":"more",
-		"c":"Content not available"
+	"common": {
+		"a": "Update at",
+		"b": "more",
+		"c": "Content not available",
+		"d": "fold",
+		"e": "Select Date",
+		"f": "Confirm",
+		"g": "Cancel",
+		"h": "Edit",
+		"i":"Please try again later",
+		"j":"Analyst",
+		"k":"Version: ",
+		"m":"Customer Service",
+		"n":"Say something",
+		"o":"Enter the keyword"
 	},
 	"navigator": {
 		"a": "Home",
 		"b": "Research",
 		"c": "Markets",
-		"d": "Mine"
+		"d": "Me"
 	},
 	"home": {
-		"a": "Oli Views",
-		"b": "Hot",
-		"c": "Recent"
+		"a": "Oli View",
+		"b": "Most Popular",
+		"c": "Recent",
+		"d": "Oli View"
 	},
 	"research": {
 		"a": "Oli News",
@@ -29,7 +41,7 @@
 		"a": "Market",
 		"b": "Bull of the Day",
 		"c": "Bear of the Day",
-		"d": "Last trading day：{date}",
+		"d": "Last trading day: {date}",
 		"e": "US",
 		"f": "AU",
 		"g": "Economic Calendar",
@@ -39,7 +51,14 @@
 		"k": "Bear",
 		"l": "Neutral",
 		"m": "Bull",
-		"n":"Ticker symbol, like APT",
+		"n": "Ticker symbol, like APT",
+		"tabs": {
+			"a": "Overviews and News",
+			"b": "Technical Analysis",
+			"c": "Bear vs Bull",
+			"d": "Analyst Ratings",
+			"e": "Insiders and Owners"
+		},
 		"date": {
 			"a": "Yesterday",
 			"b": "Today",
@@ -63,9 +82,9 @@
 			"e": "IPO Calendar"
 		},
 		"stock": {
-			"a": "Financial Situation",
+			"a": "Financial Summaries",
 			"b": "News Sentiment",
-			"c": "Company Situation",
+			"c": "Company Summaries",
 			"d": "Company Name",
 			"e": "IPO Date",
 			"f": "Exchange",
@@ -80,23 +99,23 @@
 			"o": "Record Date",
 			"p": "Amount",
 			"q": "Adjusted Amount",
-			"r": "Bearish：{value}",
-			"s": "Bullish：{value}",
-			"t": "From last financial year {year}, {symbol}'s income increased {incomeTip}, net income increased {netIncome}%，net assets increased {netAssets}%.",
+			"r": "Bearish: {value}",
+			"s": "Bullish: {value}",
+			"t": "From last financial year {year}, {symbol}'s income {incomeTip}, net income {netIncome}%, net assets {netAssets}%.",
 			"u": "Income",
 			"v": "Asset",
 			"w": "Cash Flow",
-			"statistic":{
-                   "a":"Investment Return",
-                   "b":"Net Profit Margin",
-                   "c":"Operating Margin",
-                   "d":"Gross Margin",
-                   "e":"Long Term Debt",
-                   "f":"Total Debt",
-                   "g":"Current Ratio",
-                   "h":"Quick Ratio",
-                   "i":"Revenue Per Share",
-                   "j":"Operating Cash Flow"
+			"statistic": {
+				"a": "Investment Return",
+				"b": "Net Profit Margin",
+				"c": "Operating Margin",
+				"d": "Gross Margin",
+				"e": "Long Term Debt",
+				"f": "Total Debt",
+				"g": "Current Ratio",
+				"h": "Quick Ratio",
+				"i": "Revenue Per Share",
+				"j": "Operating Cash Flow"
 			},
 			"statistic_line": {
 				"a": "Gross Income",
@@ -116,12 +135,13 @@
 			"a": "Bearish",
 			"b": "Bullish",
 			"c": "{symbol}'s sector: {sector}",
-			"d": "{nbAbove} indicators are higher than sector median, {nbBelow} indicators are lower than sector median",
+			"d": "{nbAbove} indicators are higher than sector median, {nbBelow} indicators are lower than sector median.",
 			"e": "Bearish Indicators",
-			"f": "Bullish Indicators"
+			"f": "Bullish Indicators",
+			"g": "Beat {value}% competitors"
 		},
 		"recommend": {
-			"a": "Utill {year},{symbol}'s recommendation trend is：{buy} buy rating，{hold} hold rating，{sell} sell rating",
+			"a": "Utill {year}, {symbol}'s recommendation trend is: {buy} buy rating, {hold} hold rating, {sell} sell rating.",
 			"b": "Lowest",
 			"c": "Average",
 			"d": "Highest",
@@ -129,22 +149,25 @@
 			"f": "Rating",
 			"g": "Target Price",
 			"h": "Date",
-			"i": "Note：analysts provide estimates based on current"
+			"i": "Note: analysts provide estimates based on current market.",
+			"j":"BUY: {value}",
+			"k":"HOLD: {value}",
+			"l":"SELL: {value}"
 		},
 		"owner_ship": {
 			"a": "Insider Transactions",
-			"b": "Shareholder Ranking",
-			"c": "Institution Ranking",
+			"b": "Top Shareholder",
+			"c": "Top Fund Ownership",
 			"d": "Shareholder",
 			"e": "Date",
-			"f": "Price",
+			"f": "Volume",
 			"g": "Share",
 			"h": "Percent"
 		}
 	},
 	"mine": {
 		"a": "Login",
-		"b": "Starred Report",
+		"b": "Starred",
 		"c": "Watchlist",
 		"d": "history",
 		"e": "Subscription",
@@ -173,7 +196,7 @@
 		"find": {
 			"a": "Reset Password",
 			"b": "Verification Code",
-			"c": "Please enter your code ",
+			"c": "Please enter your code",
 			"d": "SEND",
 			"e": "Confirm"
 		},
@@ -187,7 +210,7 @@
 			"g": "CH",
 			"h": "EN",
 			"i": "Logout",
-			"j": "Version：{value}",
+			"j": "Version: {value}",
 			"k": "《Financial Services Guide》",
 			"l": "《Service Usage Agreement》",
 			"m": "《Risk And Warning》",
@@ -234,9 +257,11 @@
 			"h": "Your subscription expires on {value}",
 			"i": "《Terms and Conditions》",
 			"j": "Subscribe",
-			"k":"Activate",
-			"l":"Auto Renewals",
-			"m":"Pay"
+			"k": "Activate",
+			"l": "Auto Renewals",
+			"m": "Pay",
+			"n": "{value} Months",
+			"o": "Analyst service is not availabe"
 		}
 	}
 }
