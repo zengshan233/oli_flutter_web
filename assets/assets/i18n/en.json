@@ -13,7 +13,9 @@
 		"k":"Version: ",
 		"m":"Customer Service",
 		"n":"Say something",
-		"o":"Enter the keyword"
+		"o":"Enter the keyword",
+		"p":"Please download app to enjoy customer service"
+
 	},
 	"navigator": {
 		"a": "Home",
