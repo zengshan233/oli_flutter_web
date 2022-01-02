@@ -28,7 +28,7 @@ const RESOURCES = {
 "assets/assets/images/icons/collect_menu.png": "ba4aebcac674aa0ab367223f1526eae3",
 "assets/assets/images/icons/follow.png": "e155b3c61adfe948fc41ac27b276b95e",
 "assets/assets/images/icons/grey_arrow.png": "3b8ec05e01935148b2f6bdb4ff981f05",
-"assets/assets/images/icons/heart.png": "8878e6ab57add2f1a1066148cd1b1b14",
+"assets/assets/images/icons/heart.png": "7835b9a9a0acdec1e29f39f9a80518fc",
 "assets/assets/images/icons/home_tab.png": "3a2b9cef8923d62446dd4e3d46216e87",
 "assets/assets/images/icons/icon_chat_camera.png": "a22d00b2bb2a0d6963b009d48be11c2d",
 "assets/assets/images/icons/icon_chat_cancelsending.png": "51326b56c5d6212a4d03ccc0dc8200d8",
@@ -214,9 +214,9 @@ const RESOURCES = {
 "icons/icon-29.png": "2ef25a3c6749e882f148a41d2750d876",
 "icons/icon-60.png": "90cb0ea6d697f3cf93c9cbbdbee52dd9",
 "icons/icon-83.png": "19870ac8cd94d83330d3d2c72de1163b",
-"index.html": "6888a1c8c4d21b4ffe646c3d75961131",
-"/": "6888a1c8c4d21b4ffe646c3d75961131",
-"main.dart.js": "c573b809073bcffc9658039b53d4a044",
+"index.html": "c40e916dbba782adb326570fd7c3a8aa",
+"/": "c40e916dbba782adb326570fd7c3a8aa",
+"main.dart.js": "93fe66cc561ec65fcb6b7f75e79cad65",
 "manifest.json": "90bf6fcf13f8540558c26f06dffa3017",
 "version.json": "f2d09170f3230c21e4e6683322bcfe9d"
 };
