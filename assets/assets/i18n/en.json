@@ -192,7 +192,7 @@
 			"c": "Email ",
 			"d": "Please enter your email ",
 			"e": "Password",
-			"f": "At least 8 characters including UPPERCASE and lowercase characters",
+			"f": "At least 8 characters including UPPERCASE and lowercase",
 			"g": "Register"
 		},
 		"find": {
@@ -226,7 +226,7 @@
 				"c": "New",
 				"d": "Confirm",
 				"e": "Please enter your password",
-				"f": "At least 8 characters including UPPERCASE and lowercase characters",
+				"f": "At least 8 characters including UPPERCASE and lowercase",
 				"g": "Confirm Password",
 				"h": "Confirm"
 			},
