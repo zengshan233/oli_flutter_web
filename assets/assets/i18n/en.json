@@ -263,7 +263,16 @@
 			"l": "Auto Renewals",
 			"m": "Pay",
 			"n": "{value} Month",
-			"o": "Analyst service is not availabe"
+			"o": "Analyst service is not availabe",
+			"p": "Restore Purchases",
+			"r":"Restoring...",
+			"s":"Payment in progress...",
+			"t":"Validating payment...",
+			"u":"Subscription done!",
+			"v":"Subscription failed, try again later",
+			"w":"Validating previous payment...",
+			"x":"You need to accept the agreement first",
+			"y":"You must cancel your current subscription first"
 		}
 	}
 }

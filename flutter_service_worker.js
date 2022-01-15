@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0632f8c4c1b59a66b0392067801aa9d7",
+  "assets/AssetManifest.json": "9d460da76e3f9b48c38d1beaf92926b2",
 "assets/assets/fonts/pmzdbtt.TTF": "26875b76b6ab093668e3aff79f33b485",
-"assets/assets/i18n/en.json": "08eeb64e8538493ed73a513dff78f93b",
-"assets/assets/i18n/zh.json": "4aa13f0d117f4c630a66b09ccbb761c5",
+"assets/assets/i18n/en.json": "eefb9ca29443c064b15370e5b5fcec1b",
+"assets/assets/i18n/zh.json": "b72aaac5c95306b94fe0c0681b9b191d",
 "assets/assets/images/customer.png": "daf4f571f6228e9e82599eed3faae368",
 "assets/assets/images/customer_s.png": "c20324f9d257b61f99a62528236456ee",
 "assets/assets/images/default_avatar.jpg": "f26281467764d71ebe6c42cf36808df2",
@@ -117,20 +117,6 @@ const RESOURCES = {
 "assets/assets/images/svg/stock/risingWedge.svg": "6a266f188b749be69325fa7325dadd05",
 "assets/assets/images/svg/stock/segment.svg": "3202eb415a4c012551334d46cd513474",
 "assets/assets/images/svg/stock/verticalLine.svg": "7dfd3a6f3e3d524e7720290d340ed19c",
-"assets/assets/images/technicIcons/channel.png": "30d271d173c5f71877839205ac6ac2bc",
-"assets/assets/images/technicIcons/doubleBottom.png": "cfb2de42df29cf26438cae63b72e9282",
-"assets/assets/images/technicIcons/doubleTop.png": "2e23873a9e8481e2631995e123f30233",
-"assets/assets/images/technicIcons/down.png": "1627e06def5d4050cebefb34537206ab",
-"assets/assets/images/technicIcons/eveningStar.png": "d37676970d1f56470d784a6160ea3f54",
-"assets/assets/images/technicIcons/fallingWedge.png": "9415b9d5f5c2452091d8d947adb54a87",
-"assets/assets/images/technicIcons/headShoulder.png": "595410c9bbb1de366c12f08bca7fa14a",
-"assets/assets/images/technicIcons/morningStar.png": "06397a6e154368413cda7fcc89a6fac1",
-"assets/assets/images/technicIcons/reverse.png": "5dbd60f3323d81aa605901b92803c908",
-"assets/assets/images/technicIcons/risingWedge.png": "eb85413e7a246b88f782acb1e8c5056b",
-"assets/assets/images/technicIcons/symmetrical.png": "1ac0fe24f8661d2a5fab34b5d83f0ec7",
-"assets/assets/images/technicIcons/threeBlackCrow.png": "f5bdee34bac96ee081d7158e359c2410",
-"assets/assets/images/technicIcons/threeWhiteSoldiers.png": "4be669320ebb441d4a90c69049618f5a",
-"assets/assets/images/technicIcons/up.png": "fddbf83a3d781653fa93392c12ce33e3",
 "assets/assets/images/voicePlay.gif": "dd294da0a2531c5557a2fb3a83fe32c2",
 "assets/assets/images/voicePlayRight.gif": "c8193c46ce813b4099025517a3b41eba",
 "assets/assets/lottie/loading.json": "1b89a689976d795e488504d5b7668266",
@@ -163,11 +149,11 @@ const RESOURCES = {
 "icons/icon-29.png": "2ef25a3c6749e882f148a41d2750d876",
 "icons/icon-60.png": "90cb0ea6d697f3cf93c9cbbdbee52dd9",
 "icons/icon-83.png": "19870ac8cd94d83330d3d2c72de1163b",
-"index.html": "914c28eb28e1ec2a20f6adc187c7fc5d",
-"/": "914c28eb28e1ec2a20f6adc187c7fc5d",
-"main.dart.js": "5fbed9403c54db32477f430378fa8f3c",
+"index.html": "7b80ce7fd0f1ad6b4969573a3ab860ae",
+"/": "7b80ce7fd0f1ad6b4969573a3ab860ae",
+"main.dart.js": "bdf988a0f7b5a1efd8a4306c2fb5ebd8",
 "manifest.json": "90bf6fcf13f8540558c26f06dffa3017",
-"version.json": "8eaf877abc66ccf294bc7b1de6c380b5"
+"version.json": "f660dd41667168a2b289138fe6137b51"
 };
 
 // The application shell files that are downloaded before a service worker can
