@@ -96,7 +96,7 @@ const RESOURCES = {
 "assets/assets/images/logo.png": "657d9793ba71c20e1f0663ce465f96c3",
 "assets/assets/images/stock_bear_rate.png": "b05ddcc00d97f6e034edec14deba865c",
 "assets/assets/images/svg/error.svg": "31dbde60f5622e38adf66724a7a28c2b",
-"assets/assets/images/svg/loading.svg": "dab58f7e94b8399bc81f12d01fe66696",
+"assets/assets/images/svg/loading.svg": "079228001a84bd72e725b35ccafae852",
 "assets/assets/images/svg/stock/arrowLine.svg": "ff5771eb562d036f5ed3d5a6cf2efd5c",
 "assets/assets/images/svg/stock/arrowSegment.svg": "b5d7216bc9301aac0ecc95f08f076736",
 "assets/assets/images/svg/stock/candle.svg": "29b2fdd504a4faeb7d8bc8067fb7c32d",
@@ -149,9 +149,9 @@ const RESOURCES = {
 "icons/icon-29.png": "2ef25a3c6749e882f148a41d2750d876",
 "icons/icon-60.png": "90cb0ea6d697f3cf93c9cbbdbee52dd9",
 "icons/icon-83.png": "19870ac8cd94d83330d3d2c72de1163b",
-"index.html": "7b80ce7fd0f1ad6b4969573a3ab860ae",
-"/": "7b80ce7fd0f1ad6b4969573a3ab860ae",
-"main.dart.js": "bdf988a0f7b5a1efd8a4306c2fb5ebd8",
+"index.html": "c7933e33b76b1200a28040df813a24fa",
+"/": "c7933e33b76b1200a28040df813a24fa",
+"main.dart.js": "1582eddc2ad4abe5920b9bd1e1324c09",
 "manifest.json": "90bf6fcf13f8540558c26f06dffa3017",
 "version.json": "f660dd41667168a2b289138fe6137b51"
 };
