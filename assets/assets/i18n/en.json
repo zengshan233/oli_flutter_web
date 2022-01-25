@@ -154,7 +154,8 @@
 			"i": "Note: analysts provide estimates based on current market.",
 			"j":"BUY: {value}",
 			"k":"HOLD: {value}",
-			"l":"SELL: {value}"
+			"l":"SELL: {value}",
+			"m": "Symbol"
 		},
 		"owner_ship": {
 			"a": "Insider Transactions",
