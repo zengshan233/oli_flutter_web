@@ -8,14 +8,13 @@
 		"f": "Confirm",
 		"g": "Cancel",
 		"h": "Edit",
-		"i":"Please try again later",
-		"j":"Analyst",
-		"k":"Version: ",
-		"m":"Customer Service",
-		"n":"Say something",
-		"o":"Enter the keyword",
-		"p":"Download app to enjoy customer service"
-
+		"i": "Please try again later",
+		"j": "Analyst",
+		"k": "Version: ",
+		"m": "Customer Service",
+		"n": "Say something",
+		"o": "Enter the keyword",
+		"p": "Download app to enjoy customer service"
 	},
 	"navigator": {
 		"a": "Home",
@@ -81,7 +80,8 @@
 			"b": "Economic Calendar",
 			"c": "Recent Patterns",
 			"d": "Watchlist",
-			"e": "IPO Calendar"
+			"e": "IPO Calendar",
+			"f": "Precious Metal"
 		},
 		"stock": {
 			"a": "Financial Summaries",
@@ -152,9 +152,9 @@
 			"g": "Target Price",
 			"h": "Date",
 			"i": "Note: analysts provide estimates based on current market.",
-			"j":"BUY: {value}",
-			"k":"HOLD: {value}",
-			"l":"SELL: {value}",
+			"j": "BUY: {value}",
+			"k": "HOLD: {value}",
+			"l": "SELL: {value}",
 			"m": "Symbol"
 		},
 		"owner_ship": {
@@ -266,14 +266,71 @@
 			"n": "{value} Month",
 			"o": "Analyst service is not availabe",
 			"p": "Restore Purchases",
-			"r":"Restoring...",
-			"s":"Payment in progress...",
-			"t":"Validating payment...",
-			"u":"Subscription done!",
-			"v":"Subscription failed, try again later",
-			"w":"Validating previous payment...",
-			"x":"You need to accept the agreement first",
-			"y":"You must cancel your current subscription first"
+			"r": "Restoring...",
+			"s": "Payment in progress...",
+			"t": "Validating payment...",
+			"u": "Subscription done!",
+			"v": "Subscription failed, try again later",
+			"w": "Validating previous payment...",
+			"x": "You need to accept the agreement first",
+			"y": "You must cancel your current subscription first"
+		}
+	},
+	"meta": {
+		"a": "Order",
+		"b": "Order",
+		"tabs": {
+			"a": "Gold",
+			"b": "Silver",
+			"c": "Platinum",
+			"d": "Palladium"
+		},
+		"description": {
+			"a": "Physical gold is an asset that has captured society's imagination for thousands of years and has long been the ultimate way for people to both display and store wealth. This remains so even today, and for investors looking to purchase gold, it is typically bought in coin or bar form, with the international standard set at ‘999.9’, meaning that physical gold products are 99.99% pure gold. All bullion products are marked with their purity and adhere to the strictest quality standards. Please note: all bar, tablet and coin measurements listed are a guide only, slight variations may occur. All specified weights are exact. Except in the instance of the ABC Bullion 400oz gold cast bar, weight variations are accounted for in the individual pricing of each bar. ",
+			"b": "Physical silver has become an increasingly popular choice for precious metal investors. Although not as rare as gold, therefore valued lower in weight (in ounces or grams) than its more illustrious cousin. Buying silver bullion or pure silver bars is a great way to compliment your gold holdings and diversify your investment portfolio. ",
+			"c": "Platinum is a very rare metal – even rarer than gold. The main uses for the metal are in emissions control (catalytic converters) and jewellery. A wide range of platinum bars Platinum has become a popular jewellery metal, not only because of its rarity but because it never tarnishes and is very hard-wearing. Platinum tends to be more volatile in terms of pricing than gold. Some of our investor’s love to buy platinum bars as a way of keeping a balanced portfolio of precious metals. ",
+			"d": "Palladium is a very rare metal – even rarer than gold. The main uses for the metal are in emissions control (catalytic converters) and jewellery. Our most popular is the PAMP 1oz palladium bar. Our clients often buy palladium in conjunction with holdings in gold, silver and platinum. "
+		},
+		"title": {
+			"a": "Buy Gold Products",
+			"b": "Buy Silver Products",
+			"c": "Buy Platinum Products",
+			"d": "Buy Palladium Products"
+		},
+		"form": {
+			"a": "Price Range",
+			"b": "Deposit: 2000 AUD",
+			"c": "Please note: the real-time price may be changed at any time. We do not give refund of your deposit if your order's total price is less then $20,000. ",
+			"d": "Payment in progress...",
+			"e": "Payment failed! {value}",
+			"f": "Successfully Ordered！",
+			"g": "We will contact you for more products details later, please wait.",
+			"h": "Buy Again",
+			"i": "Bank Card",
+			"verify":{
+                "a":"First Name cannot be empty!",
+                "b":"Last Name cannot be empty!",
+                "c":"Phone cannot be empty!",
+                "d":"State/Province cannot be empty!",
+                "e":"Postal Code cannot be empty!",
+                "f":"Address Line 1 cannot be empty!",
+                "g":"Please select country",
+                "h":"Bank Card is not correct!",
+				"i": "Please select price range!"
+			},
+			"address": {
+				"a": "Shipping Address",
+				"b": "First Name",
+				"c": "Last Name",
+				"d": "Company Name（Optional）",
+				"e": "Phone Number（Required）",
+				"f": "State/Province",
+				"g": "Postal Code",
+				"h": "Address Line 1",
+				"i": "Address Line 2（Optional）",
+				"j": "Country",
+				"k": "PLACE ORDER"
+			}
 		}
 	}
 }
