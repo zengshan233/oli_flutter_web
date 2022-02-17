@@ -2,7 +2,7 @@
     "name": "Oli View",
     "short_name": "Oli View",
     "start_url": ".",
-    "display": "fullscreen",
+    "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "description": "Welcome to Oli View",
