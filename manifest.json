@@ -1,6 +1,6 @@
 {
     "name": "Oli View",
-    "short_name": "Oli View",
+    "short_name": "Welcome to Oli View",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
