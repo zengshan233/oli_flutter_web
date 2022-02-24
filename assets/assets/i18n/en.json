@@ -53,6 +53,8 @@
 		"l": "Neutral",
 		"m": "Bull",
 		"n": "Ticker symbol, like APT",
+		"o":"Markets Overview",
+		"p":"Potential Invest Opportunities",
 		"tabs": {
 			"a": "Overviews and News",
 			"b": "Technical Analysis",
