@@ -53,8 +53,8 @@
 		"l": "Neutral",
 		"m": "Bull",
 		"n": "Stock symbol or name, like AAPL",
-		"o":"Markets Overview",
-		"p":"Potential Invest Opportunities",
+		"o": "Markets Overview",
+		"p": "Potential Invest Opportunities",
 		"tabs": {
 			"a": "Overviews and News",
 			"b": "Technical Analysis",
@@ -179,6 +179,8 @@
 		"f": "Analyst",
 		"g": "Customer Service",
 		"h": "Settings",
+		"i": "Clear Cache",
+		"j": "Cache Cleared!",
 		"login": {
 			"a": "WELCOME to",
 			"b": "Account",
@@ -221,7 +223,7 @@
 			"m": "《Risk And Warning》",
 			"n": "《Privacy Policy》",
 			"o": "《Customer Complaint Guideline》",
-			"p": "",
+			"p": "《Client Agreement》",
 			"1": "",
 			"password": {
 				"a": "Change Password",
@@ -275,7 +277,9 @@
 			"v": "Subscription failed, try again later",
 			"w": "Validating previous payment...",
 			"x": "You need to accept the agreement first",
-			"y": "You must cancel your current subscription first"
+			"y": "You must cancel your current subscription first",
+			"z":"Payment record not found",
+			"a1": "Stop auto renewals"
 		}
 	},
 	"meta": {
@@ -309,15 +313,15 @@
 			"g": "We will contact you for more products details later, please wait.",
 			"h": "Buy Again",
 			"i": "Bank Card",
-			"verify":{
-                "a":"First Name cannot be empty!",
-                "b":"Last Name cannot be empty!",
-                "c":"Phone cannot be empty!",
-                "d":"State/Province cannot be empty!",
-                "e":"Postal Code cannot be empty!",
-                "f":"Address Line 1 cannot be empty!",
-                "g":"Please select country",
-                "h":"Bank Card is not correct!",
+			"verify": {
+				"a": "First Name cannot be empty!",
+				"b": "Last Name cannot be empty!",
+				"c": "Phone cannot be empty!",
+				"d": "State/Province cannot be empty!",
+				"e": "Postal Code cannot be empty!",
+				"f": "Address Line 1 cannot be empty!",
+				"g": "Please select country",
+				"h": "Bank Card is not correct!",
 				"i": "Please select price range!"
 			},
 			"address": {
@@ -334,5 +338,10 @@
 				"k": "PLACE ORDER"
 			}
 		}
+	},
+	"update": {
+		"a": "New vesion available: ",
+		"b": "Upgrade",
+		"c": "Ignore"
 	}
 }
