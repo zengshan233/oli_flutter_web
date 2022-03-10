@@ -55,12 +55,15 @@
 		"n": "Stock symbol or name, like AAPL",
 		"o": "Markets Overview",
 		"p": "Potential Invest Opportunities",
+		"r": "Slide to switch ASX or US",
+		"s": "Click the menu to discover more",
 		"tabs": {
 			"a": "Overviews and News",
 			"b": "Technical Analysis",
 			"c": "Bear vs Bull",
 			"d": "Analyst Ratings",
-			"e": "Insiders and Owners"
+			"e": "Insiders and Owners",
+			"f": "Daily Gross Short Sales"
 		},
 		"date": {
 			"a": "Yesterday",
@@ -168,6 +171,12 @@
 			"f": "Volume",
 			"g": "Share",
 			"h": "Percent"
+		},
+		"sale": {
+			"a": "Date",
+			"b": "Gross Short Sales(a)",
+			"c": "Issued Capital(b)",
+			"d": "Percentage(a/b)"
 		}
 	},
 	"mine": {
@@ -278,7 +287,7 @@
 			"w": "Validating previous payment...",
 			"x": "You need to accept the agreement first",
 			"y": "You must cancel your current subscription first",
-			"z":"Payment record not found",
+			"z": "Payment record not found",
 			"a1": "Stop auto renewals"
 		}
 	},
