@@ -62,7 +62,7 @@
 			"b": "Technical Analysis",
 			"c": "Bear vs Bull",
 			"d": "Analyst Ratings",
-			"e": "Insiders and Owners",
+			"e": "Owners and Insiders",
 			"f": "Daily Gross Short Sales"
 		},
 		"date": {
@@ -264,12 +264,13 @@
 		},
 		"subscribe": {
 			"a": "Subscription",
-			"b": "Unlimited Equity Reports",
-			"c": "Unlimited Industry Reports",
-			"d": "Unlimited Weekly Reports",
+			"b": "Videos for Subscribed Users Only",
+			"c": "Unlimited Equity Reports",
+			"d": "Unlimited Industry/Weekly Reports",
 			"e": "Talk with Analyst One-on-One",
-			"f": "Technical Analysis and Chart Patterns",
-			"g": "Fundamental Analysis",
+			"f": "Comprehensive Fundmental Analysis",
+			"g": "Unlimited Technical Analysis Tools",
+			"g2": "Recommendations from Analysts",
 			"h": "Your subscription expires on {value}",
 			"i": "《Terms and Conditions》",
 			"j": "Subscribe",
@@ -288,7 +289,9 @@
 			"x": "You need to accept the agreement first",
 			"y": "You must cancel your current subscription first",
 			"z": "Payment record not found",
-			"a1": "Stop auto renewals"
+			"a1": "Stop auto renewals",
+			"b2": "Subscription will be automatically renewed. Cancel at anytime in Settings - Subscriptions at least one day before renewal date.",
+			"c2": "Please select one subscription product"
 		}
 	},
 	"meta": {
