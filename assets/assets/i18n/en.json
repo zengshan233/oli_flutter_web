@@ -198,7 +198,17 @@
 			"e": "Password",
 			"f": "Forget Password?",
 			"g": "Sign Up",
-			"h": "Login"
+			"h": "Login",
+			"i":"Phone",
+			"j":"Phone Number",
+			"titles":{
+				"a":"Email Login",
+				"b":"Phone Login",
+				"c":"Email Registration",
+				"d":"Phone Registration",
+				"e":"Email Reset",
+				"f":"Phone Reset"
+			  }
 		},
 		"register": {
 			"a": "Name",
