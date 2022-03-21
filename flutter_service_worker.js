@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7cdd549cba183ee8dcd1bea7b64033f9",
+  "assets/AssetManifest.json": "49376ebd9d6210e477d4de6ff6a7b19d",
 "assets/assets/fonts/pmzdbtt.TTF": "26875b76b6ab093668e3aff79f33b485",
-"assets/assets/i18n/en.json": "9ef431e25d673d246b61db35c89384c3",
-"assets/assets/i18n/zh.json": "17e3e6b0bd7f14d55c3a2e9ee933d1cb",
+"assets/assets/i18n/en.json": "e409f5bfc0d5a44dfed8d7a83fe0b5a3",
+"assets/assets/i18n/zh.json": "2664f6cb391ad0112e55579c2be4bff9",
 "assets/assets/images/customer.png": "daf4f571f6228e9e82599eed3faae368",
 "assets/assets/images/customer_s.png": "c20324f9d257b61f99a62528236456ee",
 "assets/assets/images/default_avatar.jpg": "f26281467764d71ebe6c42cf36808df2",
@@ -42,6 +42,7 @@ const RESOURCES = {
 "assets/assets/images/icons/icon_chat_video.png": "6f587113da213b1e36f58019df5db56e",
 "assets/assets/images/icons/icon_chat_voice.png": "14701985a5eedadd201ed3d20821d0f1",
 "assets/assets/images/icons/icon_chat_voice_play.png": "93af842b11b8677b50adafb5d224a4e3",
+"assets/assets/images/icons/invest.png": "82dacc7e9d4677e63ef7eb210cee34ba",
 "assets/assets/images/icons/left_arrow.png": "25a327299f778c8422cb908022a3c771",
 "assets/assets/images/icons/like.png": "ab07aa845a5287cbfe268dc8bbd1c063",
 "assets/assets/images/icons/menu.png": "947bc4b2168974eb6f44749e639c5912",
@@ -149,13 +150,17 @@ const RESOURCES = {
 "assets/packages/flutter_update_dialog/assets/update_ic_close.png": "cef2924be0e145da7ab1eba16043decc",
 "assets/packages/flutter_widget_from_html_core/test/images/logo.png": "57838d52c318faff743130c3fcfae0c6",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.ico": "2182e2e05573ae2def3f003de20d1379",
 "icons/icon-29.png": "2ef25a3c6749e882f148a41d2750d876",
 "icons/icon-60.png": "90cb0ea6d697f3cf93c9cbbdbee52dd9",
 "icons/icon-83.png": "19870ac8cd94d83330d3d2c72de1163b",
-"index.html": "bb7f67c3e08cdf6fe5be21efc4d87329",
-"/": "bb7f67c3e08cdf6fe5be21efc4d87329",
-"main.dart.js": "de6de942de5f1147ecaaf8ee64d1d7b2",
+"index.html": "151e5f34b29363536ab59f9280a3026d",
+"/": "151e5f34b29363536ab59f9280a3026d",
+"main.dart.js": "6c477fc5e27aca9e82d5bd7a4212729b",
 "manifest.json": "6832edb5e4be94645c6dd56e59200dee",
 "version.json": "2761a527c2fc7b2952b68d678ae7048f"
 };

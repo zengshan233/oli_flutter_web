@@ -57,6 +57,7 @@
 		"p": "Potential Invest Opportunities",
 		"r": "Slide to switch ASX or US",
 		"s": "Click the menu to discover more",
+		"t": "Risk Warning: potential opportunities of stocks calculated by algorithms and this is not investment advice. ",
 		"tabs": {
 			"a": "Overviews and News",
 			"b": "Technical Analysis",
@@ -82,11 +83,12 @@
 		},
 		"menu": {
 			"a": "Markets",
-			"b": "Economic Calendar",
+			"b": "Potential Opportunities",
 			"c": "Recent Patterns",
-			"d": "Watchlist",
+			"d": "Economic Calendar",
 			"e": "IPO Calendar",
-			"f": "Precious Metal"
+			"f": "Watchlist",
+			"g": "Precious Metal"
 		},
 		"stock": {
 			"a": "Financial Summaries",
@@ -199,16 +201,16 @@
 			"f": "Forget Password?",
 			"g": "Sign Up",
 			"h": "Login",
-			"i":"Phone",
-			"j":"Phone Number",
-			"titles":{
-				"a":"Email Login",
-				"b":"Phone Login",
-				"c":"Email Registration",
-				"d":"Phone Registration",
-				"e":"Email Reset",
-				"f":"Phone Reset"
-			  }
+			"i": "Phone",
+			"j": "Phone Number",
+			"titles": {
+				"a": "Email Login",
+				"b": "Phone Login",
+				"c": "Email Registration",
+				"d": "Phone Registration",
+				"e": "Email Reset",
+				"f": "Phone Reset"
+			}
 		},
 		"register": {
 			"a": "Name",
