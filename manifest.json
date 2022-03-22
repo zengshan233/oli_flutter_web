@@ -1,11 +1,11 @@
 {
-    "name": "Oli view",
-    "short_name": "Oli view",
+    "name": "Oli View",
+    "short_name": "Oli View",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
-    "description": "Welcome to Oli view",
+    "description": "Welcome to Oli View",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
