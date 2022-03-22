@@ -14,7 +14,9 @@
 		"m": "Customer Service",
 		"n": "Say something",
 		"o": "Enter the keyword",
-		"p": "Download app to enjoy customer service"
+		"p": "Download app to enjoy customer service",
+		"r": "Got it",
+		"s": "See More"
 	},
 	"navigator": {
 		"a": "Home",
