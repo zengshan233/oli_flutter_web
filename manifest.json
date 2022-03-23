@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
-    "description": "Welcome to Oli view",
+    "description": "Welcome to Oli View",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
