@@ -309,7 +309,8 @@
 			"z": "Payment record not found",
 			"a1": "Stop auto renewals",
 			"b2": "Subscription will be automatically renewed. Cancel at anytime in Settings - Subscriptions at least one day before renewal date.",
-			"c2": "Please select one subscription product"
+			"c2": "Please select one subscription product",
+			"d2":"Please change your 'Apple Id' to subscribe"
 		}
 	},
 	"meta": {
