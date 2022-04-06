@@ -22,7 +22,8 @@
 		"a": "Home",
 		"b": "Research",
 		"c": "Markets",
-		"d": "Me"
+		"d": "Me",
+		"e": "Videos"
 	},
 	"home": {
 		"a": "Oli View",
@@ -60,10 +61,16 @@
 		"r": "Slide to switch ASX or US",
 		"s": "Click the menu to discover more",
 		"t": "Risk Warning: potential opportunities of stocks calculated by algorithms and this is not investment advice. ",
-		"u": "Research information is only available to subscribed users",
+		"u": "Research information is only available for subscribed users",
 		"v": "Subscribe",
 		"w": "Click the button to find more research about potential invest opportunities",
-		"x":"Go",
+		"x": "Go",
+		"tips": {
+			"a": "Support/Resistance and more Pattern Recognition features are only available for subscribed users",
+			"b": "Bear/Bull Analysis and Financial Ratio Analysis features are only available for subscribed users",
+			"c": "Target Price and Analyst Recommendations features are only available for subscribed users",
+			"d": ""
+		},
 		"tabs": {
 			"a": "Overviews and News",
 			"b": "Technical Analysis",
@@ -310,7 +317,7 @@
 			"a1": "Stop auto renewals",
 			"b2": "Subscription will be automatically renewed. Cancel at anytime in Settings - Subscriptions at least one day before renewal date.",
 			"c2": "Please select one subscription product",
-			"d2":"Please change your 'Apple Id' to subscribe"
+			"d2": "Please change your 'Apple Id' to subscribe"
 		}
 	},
 	"meta": {
