@@ -239,7 +239,9 @@
 			"b": "Verification Code",
 			"c": "Please enter your code",
 			"d": "SEND",
-			"e": "Confirm"
+			"e": "Confirm",
+			"f": "Captcha",
+			"g": "Please enter captcha code"
 		},
 		"setting": {
 			"a": "Settings",
