@@ -24,7 +24,8 @@
 		"b": "资讯",
 		"c": "行情",
 		"d": "我的",
-		"e": "视讯"
+		"e": "视讯",
+		"f": "消息"
 	},
 	"home": {
 		"a": "傲利资本",
@@ -124,7 +125,7 @@
 			"q": "调整后金额",
 			"r": "看跌：{value}",
 			"s": "看涨：{value}",
-			"t": "{symbol}公司从{year}结束的财政年度开始：收入{incomeTip}；净收入{netIncome}%；净资产{netAssets}%。",
+			"t": "{symbol}公司从{year}结束的财政年度开始：收入{incomeTip}；净收入{netIncome}；净资产{netAssets}。",
 			"u": "收入",
 			"v": "资产",
 			"w": "现金流",

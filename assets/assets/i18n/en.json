@@ -24,7 +24,8 @@
 		"b": "Research",
 		"c": "Markets",
 		"d": "Me",
-		"e": "Videos"
+		"e": "Videos",
+		"f": "Message"
 	},
 	"home": {
 		"a": "Oli View",
@@ -124,7 +125,7 @@
 			"q": "Adjusted Amount",
 			"r": "Bearish: {value}",
 			"s": "Bullish: {value}",
-			"t": "From last financial year {year}, {symbol}'s income {incomeTip}, net income {netIncome}%, net assets {netAssets}%.",
+			"t": "From last financial year {year}, {symbol}'s income {incomeTip}, net income {netIncome}, net assets {netAssets}.",
 			"u": "Income",
 			"v": "Asset",
 			"w": "Cash Flow",
